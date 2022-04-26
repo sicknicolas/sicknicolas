@@ -8,6 +8,8 @@ I'm Nicolas, a 16 years old backend developer.
 ```javascript
 
 const nicolas = {
-
+  pronouns: "he" | "him",
+  country: "Brazil",
+  objective: "Find peace."
 }
 ```
