@@ -5,10 +5,12 @@
 <p>In search of peace.</p>
 
 <center>
+
 ```javascript
 const nicolas = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, Java, CSHARP],
 }
 ```
+
 </center>
