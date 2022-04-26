@@ -2,7 +2,7 @@
 
 ```javascript
 const nicolas = {
-  pronouns: "he" | "hi,",
-  code: [Javascript, Typescript, HTML, CSS, Java, C#],
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Java, Csharp],
 }
 ```
