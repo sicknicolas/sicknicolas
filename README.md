@@ -13,3 +13,9 @@ const nicolas = {
   objective: "Find peace."
 }
 ```
+
+## Skills
+
+- 👨‍💻 JavaScript, Java, TypeScript, C#
+- 👁️ HTML, CSS
+- 💻 MongoDB, MySQL, PostGreSQL
