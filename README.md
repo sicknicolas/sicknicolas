@@ -3,6 +3,6 @@
 ```javascript
 const nicolas = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java, Csharp],
+  code: [Javascript, Typescript, Java, CSHARP],
 }
 ```
